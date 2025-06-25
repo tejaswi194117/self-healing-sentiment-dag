@@ -1,0 +1,15 @@
+[2025-06-25 01:23:45]
+Input: The food was cold
+Predicted: Positive | Confidence: 54.32%
+Fallback Triggered: Yes
+User Correction: Yes
+Final Label: Negative
+--------------------------------------------------
+
+[2025-06-25 01:25:01]
+Input: Amazing service and cozy atmosphere
+Predicted: Positive | Confidence: 89.47%
+Fallback Triggered: No
+User Correction: No
+Final Label: Positive
+--------------------------------------------------
