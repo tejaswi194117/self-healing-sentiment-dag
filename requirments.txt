@@ -1,1 +1,8 @@
-
+transformers>=4.30.0
+datasets>=2.14.0
+huggingface_hub>=0.17.0
+torch>=1.13.0
+langgraph>=0.0.14
+pandas>=1.5.0
+scikit-learn>=1.2.0
+ipykernel>=6.0.0  # Optional: for Jupyter/CLI execution
